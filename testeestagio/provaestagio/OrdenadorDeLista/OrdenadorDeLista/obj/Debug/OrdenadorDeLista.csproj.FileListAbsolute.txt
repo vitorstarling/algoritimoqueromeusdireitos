@@ -1,0 +1,5 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\OrdenadorDeLista\OrdenadorDeLista\obj\Debug\OrdenadorDeLista.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\OrdenadorDeLista\OrdenadorDeLista\obj\Debug\OrdenadorDeLista.Form1.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\OrdenadorDeLista\OrdenadorDeLista\obj\Debug\OrdenadorDeLista.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\OrdenadorDeLista\OrdenadorDeLista\obj\Debug\OrdenadorDeLista.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\OrdenadorDeLista\OrdenadorDeLista\obj\Debug\OrdenadorDeLista.csproj.CoreCompileInputs.cache

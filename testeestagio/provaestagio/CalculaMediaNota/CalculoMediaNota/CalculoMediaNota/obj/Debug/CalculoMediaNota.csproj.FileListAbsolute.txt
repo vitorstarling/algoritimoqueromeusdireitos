@@ -1,0 +1,10 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\CalculaMediaNota\CalculoMediaNota\CalculoMediaNota\bin\Debug\CalculoMediaNota.exe.config
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\CalculaMediaNota\CalculoMediaNota\CalculoMediaNota\bin\Debug\CalculoMediaNota.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\CalculaMediaNota\CalculoMediaNota\CalculoMediaNota\bin\Debug\CalculoMediaNota.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\CalculaMediaNota\CalculoMediaNota\CalculoMediaNota\obj\Debug\CalculoMediaNota.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\CalculaMediaNota\CalculoMediaNota\CalculoMediaNota\obj\Debug\CalculoMediaNota.Form1.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\CalculaMediaNota\CalculoMediaNota\CalculoMediaNota\obj\Debug\CalculoMediaNota.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\CalculaMediaNota\CalculoMediaNota\CalculoMediaNota\obj\Debug\CalculoMediaNota.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\CalculaMediaNota\CalculoMediaNota\CalculoMediaNota\obj\Debug\CalculoMediaNota.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\CalculaMediaNota\CalculoMediaNota\CalculoMediaNota\obj\Debug\CalculoMediaNota.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\CalculaMediaNota\CalculoMediaNota\CalculoMediaNota\obj\Debug\CalculoMediaNota.pdb

@@ -1,0 +1,10 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\SimuladorCaixaEletronico\SimuladorCaixaEletronico\bin\Debug\SimuladorCaixaEletronico.exe.config
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\SimuladorCaixaEletronico\SimuladorCaixaEletronico\bin\Debug\SimuladorCaixaEletronico.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\SimuladorCaixaEletronico\SimuladorCaixaEletronico\bin\Debug\SimuladorCaixaEletronico.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\SimuladorCaixaEletronico\SimuladorCaixaEletronico\obj\Debug\SimuladorCaixaEletronico.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\SimuladorCaixaEletronico\SimuladorCaixaEletronico\obj\Debug\SimuladorCaixaEletronico.Form1.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\SimuladorCaixaEletronico\SimuladorCaixaEletronico\obj\Debug\SimuladorCaixaEletronico.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\SimuladorCaixaEletronico\SimuladorCaixaEletronico\obj\Debug\SimuladorCaixaEletronico.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\SimuladorCaixaEletronico\SimuladorCaixaEletronico\obj\Debug\SimuladorCaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\SimuladorCaixaEletronico\SimuladorCaixaEletronico\obj\Debug\SimuladorCaixaEletronico.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\testeestagio\SimuladorCaixaEletronico\SimuladorCaixaEletronico\obj\Debug\SimuladorCaixaEletronico.pdb
